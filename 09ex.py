@@ -4,7 +4,7 @@ nu = int(input("Qual o número? "))
 if n == nu:
     print("Acertou, parabéns!")
 else:
-    print("Você errou, burro!")
+    print("Você errou!")
     print("O numero era {}!".format(n))
 
 
